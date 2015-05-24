@@ -1,12 +1,12 @@
 # WCC workshop #1
 
-In this workshop you’ll learn the basics of building modern mobile-ready websites, b
+In this workshop you will learn the basics of building modern mobile-ready websites. You will use HTML & CSS to make a digital version of your CV and host it on [GitHub Pages](https://pages.github.com/) for free.
 
-**Workshop slides**: [slides.com/iljapanic/wcc-1](http://slides.com/iljapanic/wcc-1)
 **Workshop duration**: approx. 6 hours
 
+**Workshop outline:**
 
-**THEORY BLOCK**
+*THEORY BLOCK*
 
 - modern Web
 	- responsive web
@@ -16,7 +16,7 @@ In this workshop you’ll learn the basics of building modern mobile-ready websi
 	- visual hierarchy
 	- color
 
-**CODING BLOCK**
+*CODING BLOCK*
 
 - HTML basics
 	- basic document structure
@@ -24,7 +24,23 @@ In this workshop you’ll learn the basics of building modern mobile-ready websi
 	- tag attributes
 	- block vs. inline
 - CSS basics
+	- normalize CSS
+	- base styles
 	- typographic scale
 	- box-model
 	- floating elements
-	- layout
+	- simple layout
+
+**Workshop requirements:**
+
+1) Install Sublime Text text editor ([Mac & Win](http://www.sublimetext.com/3))
+
+2) Create an account on [GitHub.com](https://github.com/)
+
+3) Download a GitHub client ([Mac](https://mac.github.com/)/[Win](https://windows.github.com/))
+
+4) Prepare a profile picture with square aspect ratio (preferably 180x180px)
+
+
+
+Workshop slides are available at [slides.com/iljapanic/wcc-1](http://slides.com/iljapanic/wcc-1)
