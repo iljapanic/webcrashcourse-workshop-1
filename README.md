@@ -1,4 +1,4 @@
-# WCC workshop #1
+# Web Crash Course: Workshop #1
 
 In this workshop you will learn the basics of building modern mobile-ready websites. You will use HTML & CSS to make a digital version of your CV and host it on [GitHub Pages](https://pages.github.com/) for free.
 
