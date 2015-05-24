@@ -4,9 +4,9 @@ In this workshop you will learn the basics of building modern mobile-ready websi
 
 **Workshop duration**: approx. 6 hours
 
-**Workshop outline:**
+## Workshop outline
 
-*THEORY BLOCK*
+**THEORY BLOCK**
 
 - modern Web
 	- responsive web
@@ -16,7 +16,7 @@ In this workshop you will learn the basics of building modern mobile-ready websi
 	- visual hierarchy
 	- color
 
-*CODING BLOCK*
+**CODING BLOCK**
 
 - HTML basics
 	- basic document structure
@@ -31,16 +31,21 @@ In this workshop you will learn the basics of building modern mobile-ready websi
 	- floating elements
 	- simple layout
 
-**Workshop requirements:**
+## Workshop prerequisites
+
+Please bring your own computer (don’t forget a charger) and do the following before the workshop starts:
+
 
 1) Install Sublime Text text editor ([Mac & Win](http://www.sublimetext.com/3))
 
 2) Create an account on [GitHub.com](https://github.com/)
 
-3) Download a GitHub client ([Mac](https://mac.github.com/)/[Win](https://windows.github.com/))
+3) Download a GitHub client ([Mac](https://mac.github.com/) / [Win](https://windows.github.com/))
 
 4) Prepare a profile picture with square aspect ratio (preferably 180x180px)
 
 
-
 Workshop slides are available at [slides.com/iljapanic/wcc-1](http://slides.com/iljapanic/wcc-1)
+
+For additional information and resources check out [Webdesign Crash Course GitHub page](https://github.com/WebCrashCourse/info)
+
