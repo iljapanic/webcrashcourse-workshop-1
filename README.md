@@ -2,8 +2,6 @@
 
 In this workshop you will learn the basics of building modern mobile-ready websites. You will use HTML & CSS to make a digital version of your CV and host it on [GitHub Pages](https://pages.github.com/) for free.
 
-**Workshop duration**: approx. 6 hours
-
 ## Workshop outline
 
 **THEORY BLOCK**
@@ -45,7 +43,15 @@ Please bring your own computer (don’t forget a charger) and do the following b
 4) Prepare a profile picture with square aspect ratio (preferably 180x180px)
 
 
-Workshop slides are available at [slides.com/iljapanic/wcc-1](http://slides.com/iljapanic/wcc-1)
+
+
+
+## Workshop info
+
+**Workshop duration**: approx. 6 hours
+
+[Workshop slides at slides.com](http://slides.com/iljapanic/wcc-1)
+
 
 For additional information and resources check out [Webdesign Crash Course GitHub page](https://github.com/WebCrashCourse/info)
 
