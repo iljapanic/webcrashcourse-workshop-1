@@ -1,5 +1,7 @@
 # Web Crash Course: Workshop #1
 
+[![Join the chat at https://gitter.im/WebCrashCourse/workshop-1](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/WebCrashCourse/workshop-1?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 In this workshop you will learn the basics of building modern mobile-ready websites. You will use HTML & CSS to make a digital version of your CV and host it on [GitHub Pages](https://pages.github.com/) for free.
 
 ## Workshop outline
