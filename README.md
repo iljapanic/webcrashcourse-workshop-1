@@ -1,59 +1,84 @@
-# Web Crash Course: Workshop #1
+# Workshop #1: Content-out Web design and building responsive sites
 
 [![Join the chat at https://gitter.im/WebCrashCourse/workshop-1](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/WebCrashCourse/workshop-1?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-In this workshop you will learn the basics of building modern mobile-ready websites. You will use HTML & CSS to make a digital version of your CV and host it on [GitHub Pages](https://pages.github.com/) for free.
+In the first part of the workshop, we will learn about the content-out approach to Web design and its role in today's multi-screen consumer landscape. We will look at how to achieve simple designs with good information architecture by using visual hierarchy, color, and typography.
+
+In the second half, we will learn to work with repositories on GitHub and build our first responsive website using basic HTML and CSS. We will end off by hosting our finished site for free on GitHub Pages.
+
+
+## Workshop info
+
+**Workshop level**: beginners (no prior coding experience)
+
+**Workshop duration**: approx. 6 hours
+
+**Workshop slides**: *coming soon*
+
+**Workshop instructors**:
+
+- [Ilja Panic](http://iljapanic.me)
+
+
+For list of literatue and useful resources check out [Webdesign Crash Course info repo](https://github.com/WebCrashCourse/info)
+
+
+## Workshop prerequisites
+
+Before coming to the workshop please complete the following steps:
+
+1. Install Sublime Text text editor [[Mac & Win](http://www.sublimetext.com/3)]
+
+2. Create an account on [GitHub.com](https://github.com/) - keep in mind that the sites hosted on GitHub reside on http://**yourusername**.github.io/name-of-your-site
+
+3. Download a GitHub client [[Mac](https://mac.github.com/)] [[Win](https://windows.github.com/)]
+
+Please bring your own computer. Don’t forget a charger!
+
+If you have trouble with any of the above steps get in touch with one of the instructors or use this [workshop’s Gitter chatroom](https://gitter.im/WebCrashCourse/workshop-1).
+
+
+## Workshop coding exercises
+
+It is up to participants to choose which exercise we will work on in the workshop.
+
+- **Excercise 1: Personal profile (CV)** - a simple one-pager with basic information about you or a fictional character (prepare a 160x160px profile picture)
+
+- **Excercise 2: Product page** - a simple one-pager for a fake product
+
+Suggestions for exercises are welcomed!
+
 
 ## Workshop outline
 
 **THEORY BLOCK**
 
 - modern Web
-	- responsive web
-	- content-out approach to building websites
+	- forget about pages
+	- content is the king
+	- responsive web in the age of thousand screens
 - design for “non-designers”
-	- typography 
-	- visual hierarchy
-	- color
+    - visual hierarchy
+    - color
+    - typography
 
 **CODING BLOCK**
 
 - HTML basics
-	- basic document structure
-	- tags
-	- tag attributes
-	- block vs. inline
+    - basic document structure
+    - tags
+    - tag attributes
+    - block vs. inline
 - CSS basics
-	- normalize CSS
-	- base styles
-	- typographic scale
-	- box-model
-	- floating elements
-	- simple layout
-
-## Workshop prerequisites
-
-Please bring your own computer (don’t forget a charger) and do the following before the workshop starts:
-
-
-1) Install Sublime Text text editor ([Mac & Win](http://www.sublimetext.com/3))
-
-2) Create an account on [GitHub.com](https://github.com/)
-
-3) Download a GitHub client ([Mac](https://mac.github.com/) / [Win](https://windows.github.com/))
-
-4) Prepare a profile picture with square aspect ratio (preferably 180x180px)
+    - normalize CSS
+    - base styles
+    - typographic scale
+    - box-model
+    - simple layouts by floating elements
 
 
 
 
 
-## Workshop info
 
-**Workshop duration**: approx. 6 hours
-
-[Workshop slides at slides.com](http://slides.com/iljapanic/wcc-1)
-
-
-For additional information and resources check out [Webdesign Crash Course GitHub page](https://github.com/WebCrashCourse/info)
 
