@@ -42,7 +42,7 @@ If you have trouble with any of the above steps get in touch with one of the ins
 
 It is up to participants to choose which exercise we will work on in the workshop.
 
-- **Excercise 1: Personal profile (CV)** - a simple one-pager with basic information about you or a fictional character (prepare a 160x160px profile picture)
+- **Excercise 1: Personal profile (CV)** - a simple one-pager with basic information about you or a fictional character
 
 - **Excercise 2: Product page** - a simple one-pager for a fake product
 
