@@ -29,9 +29,9 @@ Before coming to the workshop please complete the following steps:
 
 1. Install Sublime Text text editor [[Mac & Win](http://www.sublimetext.com/3)]
 
-2. Create an account on [GitHub.com](https://github.com/) - keep in mind that the sites hosted on GitHub reside on http://**yourusername**.github.io/name-of-your-site
+2. Download a GitHub client [[Mac](https://mac.github.com/)] [[Win](https://windows.github.com/)]
 
-3. Download a GitHub client [[Mac](https://mac.github.com/)] [[Win](https://windows.github.com/)]
+3. Create an account on [GitHub.com](https://github.com/) - keep in mind that the sites hosted on GitHub reside on http://**yourusername**.github.io/name-of-your-site
 
 Please bring your own computer. Don’t forget a charger!
 
