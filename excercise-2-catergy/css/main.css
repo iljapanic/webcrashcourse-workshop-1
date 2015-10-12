@@ -1,0 +1,255 @@
+html {
+	font-size: 21px;
+	line-height: 1.5;
+	color: #2e2503;
+}
+
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+
+/*
+	typography modular scale based on 3/4 ratio
+
+	5 7 9 12 16 21 28 37 50 67 119 159
+
+	see: http://designforhackers.com/blog/font-sizes/
+*/
+
+p {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+p + p {
+	margin-top: 1em;
+}
+
+h1, h2, h3, h4, h5 {
+	margin-top: 0;
+	line-height: 1;
+}
+
+h1 {
+	font-size: 37px;
+}
+
+h2 {
+	font-size: 28px;
+}
+
+h3 {
+	font-size: 21px;
+}
+
+h4 {
+	font-size: 16px;
+}
+
+img {
+	max-width: 100%;
+}
+
+/* HELPERS */
+.text-center {
+	text-align: center;
+}
+
+.text-small, small {
+	font-size: 16px;
+}
+
+.text-bold {
+	font-weight: 700;
+}
+
+.bg-yellow {
+	background-color: #F5D76E;
+}
+
+.bg-gray {
+	background-color: #F7F7F7;
+}
+
+.bg-dark {
+	background-color: #3e3104;
+	color: white;
+}
+
+.margin-top {
+	margin-top: 1.5em;
+}
+
+.margin-top-double {
+	margin-top: 3em;
+}
+
+/* LAYOUT */
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.wrap {
+	max-width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.grid-third {
+	margin-top: 1.5em;
+}
+
+@media (min-width: 768px) { /* styles for desktop */
+	
+	.grid {
+		max-width: 1024px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.grid-third {
+		float: left;
+		width: 33%;
+		margin-top: 0;
+	}
+
+}
+
+/* HEADER */
+.header {
+	padding-top: 1.5em;
+	padding-bottom: 1.5em;
+}
+
+.header-title {
+	text-transform: uppercase;
+	font-weight: 800;
+}
+
+.header-button button {
+	padding: 0.5em 1em;
+	background-color: transparent;
+	border: 1px solid #2e2503;
+	border-radius: 6px;
+	font-size: 16px;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	transition: all 0.75s;
+}
+
+.header-button button:hover {
+	color: white;
+	background-color: #2e2503;
+	transform: scale(1.05);
+}
+
+
+/* SECTION */
+.section {
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+.section-title {
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+
+
+
+/* FEATURES */
+.feature-title {
+	margin-top: 0.25em;
+	margin-bottom: 0.5em;
+}
+
+.feature-text {
+	font-size: 16px;
+}
+
+/* TESTIMONIALS */
+.testimonial {
+	margin-top: 1.5em;
+}
+
+.testimonial blockquote {
+	font-style: italic;
+	margin: 0;
+}
+
+.testimonial blockquote:before {
+	content: "“";
+}
+
+.testimonial blockquote:after {
+	content: "”";
+}
+
+.author {
+	font-weight: 700;
+	text-align: right;
+}
+
+.author:before {
+	content: "– ";
+}
+
+@media (min-width: 768px) { /* styles for desktop */
+	
+	.testimonial.left {
+		width: 65%;
+		float: left;
+		text-align: left;
+	}
+
+	.testimonial.right {
+		width: 65%;
+		float: right;
+		text-align: right;
+	}
+
+}
+
+
+
+/* FOOTER */
+.footer {
+	padding-top: 1.5em;
+	padding-bottom: 1.5em;
+}
+
+.footer-button {
+	margin-top: 1em;
+}
+
+.footer-button button {
+	padding: 0.5em 1em;
+	background-color: #2e2503;
+	border: 1px solid #2e2503;
+	border-radius: 6px;
+	color: white;
+	font-size: 16px;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	transition: all 0.75s;
+}
+
+.footer-button button:hover {
+	color: #2e2503;
+	background-color: #F5D76E;
+	transform: scale(1.05);
+}
+
+.button-comment {
+	margin-top: 0.25em;
+}
+
