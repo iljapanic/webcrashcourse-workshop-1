@@ -1,0 +1,303 @@
+/* base styles */
+html {
+	box-sizing: border-box;
+	font-size: 1em;
+}
+
+*, *:before, *:after {
+	box-sizing: inherit;
+}
+
+body {
+	background-color: #ECECEC;
+	color: #333;
+	font-family: 'Libre Baskerville', serif;
+	font-weight: 400;
+	line-height: 1.45;
+}
+
+p {
+	margin-bottom: 1.3em;
+}
+
+h1, h2, h3, h4 {
+	margin: 1.414em 0 0;
+	font-weight: 700;
+	font-family: 'Raleway', sans-serif;
+	line-height: 1.2;
+}
+
+h1 {
+	margin-top: 0;
+	font-size: 2.369em;
+}
+
+h2 {
+	font-size: 1.777em;
+}
+
+h3 {
+	font-size: 1.677em;
+}
+
+h4 {
+	font-size: 1.333em;
+}
+
+small, .font-small {
+	font-size: 0.75em;
+}
+
+/* global */
+.sr-only {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+/* layout */
+.l-grid {
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 0 1.5%;
+}
+
+.l-sidebar {
+	width: 100%;
+}
+
+.l-main {
+	width: 100%;
+}
+
+.clearfix {
+    overflow: auto;
+	zoom: 1;
+}
+
+/* header */
+.header {
+	margin-top: 1rem;
+	vertical-align: middle;
+}
+
+.profile-image {
+	border-radius: 50%;
+	max-width: 150px;
+	float: left;
+	margin-right: 1.5rem;
+}
+
+.site-title {
+	font-size: 2.369em;
+	margin-bottom: 0;
+}
+
+.site-subtitle {
+	font-style: italic;
+	color: #777;
+	margin-top: 0.5rem;
+	font-family: 'Raleway', sans-serif;
+}
+
+/* sidebar */
+.sidebar-title {
+	margin-top: 1em;
+	font-size: 1.777em;
+}
+
+.sidebar-subtitle {
+	margin-top: 0.2em;
+	font-size: 1.333em;
+}
+
+.button {
+	display: block;
+	background-color: #4183D7;
+	color: white;
+	border-radius: 0.5rem;
+	margin-bottom: 0.65rem;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding: 0.5rem;
+	font-family: 'Raleway', sans-serif;
+	letter-spacing: 1px;
+	max-width: 85%;
+}
+
+.button:hover {
+	background-color: #1F3A93;
+	transition: all 0.5s;
+}
+
+.contact-list {
+	list-style-type: none;
+	padding: 0;
+}
+
+.contact-list li {
+	margin-bottom: 0.75rem;
+}
+
+.contact-list a {
+	text-decoration: none;
+	color: #333;
+}
+
+.contact-list i {
+	margin-right: 0.5rem;
+	font-size: 1.5em;
+	vertical-align: middle;
+}
+
+.social-icons {
+	list-style-type: none;
+	padding: 0;
+}
+
+.social-icons li {
+	font-size: 2.25em;
+	display: inline;
+}
+
+.social-icons a {
+	text-decoration: none;
+	color: #333;
+}
+
+.facebook:hover {
+	color: #2f4b93;
+}
+
+.twitter:hover {
+	color: #00bdef;
+}
+
+.google:hover {
+	color: #2d2d2d;
+}
+
+.linkedin:hover {
+	color: #0072b5;
+}
+
+.skills-list {
+	list-style-type: none;
+	padding: 0;
+}
+
+.skills-list li {
+	display: inline-block;
+	font-size: 0.9em;
+	background-color: #ccc;
+	padding: 0.25rem 0.5rem;
+	border-radius: 0.5rem;
+	margin-right: 0.25rem;
+	margin-bottom: 0.5rem;
+	font-family: 'Raleway', sans-serif;
+}
+
+/* main */
+.main {
+	margin-top: 1.5rem;
+}
+
+
+/* section */
+.section {
+	margin-bottom: 3.5rem;
+}
+
+.section-title {
+	margin-top: 0;
+	margin-bottom: 1.5rem;
+	border-bottom: 3px solid #ccc;
+	padding-bottom: 0.215rem;
+	text-transform: uppercase;
+	font-size: 1.777em;
+}
+
+.section-icon {
+	margin-right: 0.5rem;
+	font-size: 1.35em;
+}
+
+
+/* item */
+.item {
+	margin-bottom: 2.5rem;
+}
+
+.item-title {
+	margin-top: 0;
+	font-weight: normal;
+}
+
+.item-date {
+	margin-left: 0.5rem;
+	font-size: 0.5em;
+	vertical-align: middle;
+	color: #777;
+}
+
+.item-subtitle {
+	text-transform: uppercase;
+	font-weight: bold;
+	font-family: 'Raleway', sans-serif;
+}
+
+.item-body {
+	margin-top: 0.45rem;
+}
+
+.item-body p:first-of-type {
+	margin-top: 0;	
+}
+
+/* footer */
+.footer {
+	text-align: center;
+	font-size: 0.95em;
+	font-style: italic;
+	margin-top: 1rem;
+	margin-bottom: 3rem;
+}
+
+
+/* desktop styles */
+@media (min-width: 760px) {
+
+	.site-title {
+		font-size: 3.157em;
+		margin-top: 1.2rem;
+	}
+
+	.l-grid {
+		padding: 0;
+	}
+
+	.l-sidebar {
+		float: left;
+		width: 30%;
+	}
+
+	.l-main {
+		float: left;
+		width: 70%;
+		padding-left: 5%;
+	}
+
+	.item-date {
+		margin-top: 1rem;
+		float: right;
+	}
+
+}

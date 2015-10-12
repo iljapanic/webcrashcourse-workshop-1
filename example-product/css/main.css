@@ -78,11 +78,11 @@ img {
 }
 
 .margin-top {
-	margin-top: 1.5em;
+	margin-top: 1em;
 }
 
 .margin-top-double {
-	margin-top: 3em;
+	margin-top: 2em;
 }
 
 /* LAYOUT */
@@ -117,7 +117,7 @@ img {
 	.grid-third {
 		float: left;
 		width: 33%;
-		margin-top: 0;
+		/*margin-top: 0;*/
 	}
 
 }
@@ -161,8 +161,8 @@ img {
 .section-title {
 	text-transform: uppercase;
 	letter-spacing: 1px;
+	margin-bottom: 0;
 }
-
 
 
 /* FEATURES */
